@@ -1,10 +1,10 @@
 # 📡 Content Signal Radar
 
-> 2026/6/17 19:33:34 · 3 条高信号 · 0 条原始推文
+> 2026/6/17 19:35:10 · 2 条高信号 · 0 条原始推文
 
 ## 今日判断
 
-Agent 话题今天密度最高，@歸藏 的观点值得展开——评价 agent 的框架正在从"能做什么"转向"能不能持续超出预期"。📌 综合 方向也有 1 条相关信号。这个方向还在加速，连续两天出现同类信号就值得写成帖子。
+Agent 话题今天密度最高，@歸藏 的观点值得展开——评价 agent 的框架正在从"能做什么"转向"能不能持续超出预期"。这个方向还在加速，连续两天出现同类信号就值得写成帖子。
 
 ---
 
@@ -23,13 +23,6 @@ Agent 话题今天密度最高，@歸藏 的观点值得展开——评价 agent
 不再是"能做什么"的问题，而是"能不能持续超出预期"——评价框架在变。 → 可写性高，优先扩成帖子
 
 [→ 原文](https://m.okjike.com/originalPosts/6a2f7c14aa39df5104cb7fae)
-
-### 3. 发布了: 垂类数据是垂类AI应用和模型的壁垒？未必。 Adobe被Claude Design吊着打很说明问题。 AGI面前，不能用传统那套逻辑思考了。
-[@汗青HQ](https://m.okjike.com/originalPosts/69f21ecbc2dc8bf83f8414c7) · `📌 综合`
-
-值得看——不因为新，而因为它能帮你校准方向判断。
-
-[→ 原文](https://m.okjike.com/originalPosts/69f21ecbc2dc8bf83f8414c7)
 
 ---
 
@@ -68,10 +61,10 @@ https://m.okjike.com/originalPosts/6a2f7c14aa39df5104cb7fae
 ## 平台健康摘要
 
 - X: 0 raw / 0 post-seen / 0 high-signal
-- 即刻: 10 raw / 10 post-seen / 3 high-signal
-- Blogs: 2 raw / 2 post-seen / 0 high-signal
+- 即刻: 10 raw / 10 post-seen / 2 high-signal
+- Blogs: 0 raw / 0 post-seen / 0 high-signal
 - Podcasts: 0 raw / 0 post-seen / 0 high-signal
 
 ---
 
-<sub>25 builders · 0 tweets · 3 blogs · 0 podcasts · 3 high-signal · 2 filtered · balanced mode</sub>
+<sub>25 builders · 0 tweets · 0 blogs · 0 podcasts · 2 high-signal · 2 filtered · balanced mode</sub>
