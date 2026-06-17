@@ -2,8 +2,9 @@
 
 import { readFile, writeFile } from 'fs/promises';
 import { existsSync } from 'fs';
-import { join } from 'path';
+import { dirname, join } from 'path';
 import { homedir } from 'os';
+import { fileURLToPath } from 'url';
 
 const USER_DIR = join(homedir(), '.content-signal-radar');
 const CONFIG_PATH = join(USER_DIR, 'config.json');
@@ -11,6 +12,9 @@ const CUSTOM_SOURCES_PATH = join(USER_DIR, 'custom-sources.json');
 const SEEN_SIGNALS_PATH = join(USER_DIR, 'seen-signals.json');
 const SEEN_SIGNALS_TTL_DAYS = 1;
 const NO_SEEN = process.argv.includes('--no-seen');
+const SCRIPT_DIR = dirname(fileURLToPath(import.meta.url));
+const ROOT_DIR = join(SCRIPT_DIR, '..');
+const USE_LOCAL_FEEDS = process.env.CONTENT_SIGNAL_FEED_SOURCE === 'local';
 
 const FEED_X_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-podcasts.json';
@@ -154,6 +158,17 @@ async function fetchJSON(url) {
   const res = await fetch(url);
   if (!res.ok) return null;
   return res.json();
+}
+
+async function loadFeed(filename, remoteUrl) {
+  if (USE_LOCAL_FEEDS) {
+    try {
+      return JSON.parse(await readFile(join(ROOT_DIR, filename), 'utf-8'));
+    } catch {
+      return null;
+    }
+  }
+  return fetchJSON(remoteUrl);
 }
 
 async function fetchRSSFeed(url) {
@@ -1360,16 +1375,16 @@ async function main() {
     }
   }
 
-  const scriptDir = decodeURIComponent(new URL(import.meta.url).pathname).replace(/\/[^\/]+$/, '');
-  const rootDir = join(scriptDir, '..');
+  const scriptDir = SCRIPT_DIR;
+  const rootDir = ROOT_DIR;
   const localPromptsDir = join(rootDir, 'prompts');
   const userPromptsDir = join(USER_DIR, 'prompts');
   const configDir = join(rootDir, 'config');
 
   const [feedX, feedPodcasts, feedBlogs, profiles, customSources] = await Promise.all([
-    fetchJSON(FEED_X_URL),
-    fetchJSON(FEED_PODCASTS_URL),
-    fetchJSON(FEED_BLOGS_URL),
+    loadFeed('feed-x.json', FEED_X_URL),
+    loadFeed('feed-podcasts.json', FEED_PODCASTS_URL),
+    loadFeed('feed-blogs.json', FEED_BLOGS_URL),
     loadLocalSourceProfiles(configDir),
     loadCustomSources()
   ]);
@@ -1487,8 +1502,8 @@ async function main() {
   // 写 dashboard 可读的风声快照
   try {
     const { writeFileSync } = await import('fs');
-    const { join, dirname } = await import('path');
-    const scriptDir = dirname(decodeURIComponent(new URL(import.meta.url).pathname));
+    const { join } = await import('path');
+    const scriptDir = SCRIPT_DIR;
     const dashboardSignals = {
       generatedAt: output.generatedAt,
       stats: output.stats,

@@ -1,4 +1,4 @@
-name: Generate Feeds
+name: Generate Feeds and Digest
 
 on:
   schedule:
@@ -37,17 +37,66 @@ jobs:
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
+          MODE: ${{ github.event.inputs.mode }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
-            cd scripts && node generate-feed.js --${{ inputs.mode }}
-          else
-            cd scripts && node generate-feed.js
+          set -euo pipefail
+
+          MODE="${MODE:-all}"
+          RUN_TWEETS=false
+          RUN_PODCASTS=false
+          RUN_BLOGS=false
+
+          case "$MODE" in
+            all)
+              RUN_TWEETS=true
+              RUN_PODCASTS=true
+              RUN_BLOGS=true
+              ;;
+            tweets-only)
+              RUN_TWEETS=true
+              ;;
+            podcasts-only)
+              RUN_PODCASTS=true
+              ;;
+            blogs-only)
+              RUN_BLOGS=true
+              ;;
+          esac
+
+          if [ "$RUN_TWEETS" = true ]; then
+            if [ -n "${X_BEARER_TOKEN:-}" ]; then
+              (cd scripts && node generate-feed.js --tweets-only)
+            else
+              echo "::warning::X_BEARER_TOKEN is not set; skipping X/Twitter feed."
+            fi
           fi
 
-      - name: Commit and push feeds
+          if [ "$RUN_PODCASTS" = true ]; then
+            if [ -n "${SUPADATA_API_KEY:-}" ]; then
+              (cd scripts && node generate-feed.js --podcasts-only)
+            else
+              echo "::warning::SUPADATA_API_KEY is not set; skipping podcast feed."
+            fi
+          fi
+
+          if [ "$RUN_BLOGS" = true ]; then
+            (cd scripts && node generate-feed.js --blogs-only)
+          fi
+
+      - name: Generate markdown digest
+        env:
+          CONTENT_SIGNAL_FEED_SOURCE: local
+        run: |
+          set -euo pipefail
+          mkdir -p "$HOME/.content-signal-radar"
+          cp config/maple.config.example.json "$HOME/.content-signal-radar/config.json"
+          node scripts/prepare-digest.js --no-seen > digest.json
+          node scripts/export-digest.js digest.json
+
+      - name: Commit and push feeds and digest
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json
-          git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
+          git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json dashboard-signals.json output/*.md
+          git diff --cached --quiet || git commit -m "chore: update feeds and digest [skip ci]"
           git push

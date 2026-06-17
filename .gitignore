@@ -1,4 +1,7 @@
 scripts/node_modules/
 .env
+config/custom-sources.json
+config/maple.config.json
+digest.json
 *.log
 .DS_Store

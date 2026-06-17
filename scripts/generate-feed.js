@@ -15,7 +15,8 @@
 
 import { readFile, writeFile } from 'fs/promises';
 import { existsSync } from 'fs';
-import { join } from 'path';
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
 
 // -- Constants ---------------------------------------------------------------
 
@@ -28,7 +29,7 @@ const MAX_TWEETS_PER_USER = 3;
 const MAX_ARTICLES_PER_BLOG = 3;
 
 // State file lives in the repo root so it gets committed by GitHub Actions
-const SCRIPT_DIR = decodeURIComponent(new URL('.', import.meta.url).pathname);
+const SCRIPT_DIR = dirname(fileURLToPath(import.meta.url));
 const STATE_PATH = join(SCRIPT_DIR, '..', 'state-feed.json');
 
 // -- State Management --------------------------------------------------------
