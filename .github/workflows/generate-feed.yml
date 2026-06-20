@@ -2,8 +2,9 @@ name: Generate Feeds and Digest
 
 on:
   schedule:
-    # All feeds (tweets, podcasts, blogs): once daily at 8am Asia/Shanghai
-    - cron: '0 0 * * *'
+    # All feeds (tweets, podcasts, blogs): once daily at 8:17am Asia/Shanghai.
+    # Avoid top-of-hour schedule drops on GitHub-hosted Actions.
+    - cron: '17 0 * * *'
   workflow_dispatch:
     inputs:
       mode:
