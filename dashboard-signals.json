@@ -1,55 +1,27 @@
 {
-  "generatedAt": "2026-06-17T11:51:41.901Z",
+  "generatedAt": "2026-06-20T10:21:51.413Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 2,
+    "blogPosts": 1,
+    "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {
-      "jike_post": 2
-    }
+    "highSignalCounts": {}
   },
-  "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6a30bb5b8694679c362225b2",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: Anthropic 叫停了关于 Agent SDK 六月以后不能使用 Claude 订阅额度的这个改动 就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claud...",
-      "url": "https://m.okjike.com/originalPosts/6a30bb5b8694679c362225b2",
-      "summary": "Anthropic 叫停了关于 Agent SDK  六月以后不能使用 Claude 订阅额度的这个改动&lt;br&gt;&lt;br&gt;就是说你还是可以在类似 CodePilot 这种基于 Agent SDK 开发的其他 Claude Code 三方客户端上，使用你的 Claude 订阅额度。&lt;br&gt;&lt;br&gt;用不完的朋友们可以继续爽了&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FhL9yewzqOhOAeahhpY9...",
-      "score": 85,
-      "publishedAt": "Tue, 16 Jun 2026 02:56:27 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6a2f7c14aa39df5104cb7fae",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: 1. 模型很喜欢说「想象一下」 2. 现在很多Agent都支持多模态能力 可以加一条规则： 「每当你输出“想象一下”时，直接生成配图，并在图中标注信息，方便...",
-      "url": "https://m.okjike.com/originalPosts/6a2f7c14aa39df5104cb7fae",
-      "summary": "1. 模型很喜欢说「想象一下」&lt;br&gt;2. 现在很多Agent都支持多模态能力&lt;br&gt;&lt;br&gt;可以加一条规则：&lt;br&gt;&lt;br&gt;「每当你输出“想象一下”时，直接生成配图，并在图中标注信息，方便直观呈现你想要表达的画面」。",
-      "score": 84,
-      "publishedAt": "Mon, 15 Jun 2026 04:14:12 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    }
-  ]
+  "signals": []
 }
