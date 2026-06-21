@@ -1,27 +1,72 @@
 {
-  "generatedAt": "2026-06-20T10:21:51.413Z",
+  "generatedAt": "2026-06-21T05:20:48.807Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 1,
-    "highSignalCount": 0,
+    "blogPosts": 4,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "blog_post": 3,
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "blog_post": 3,
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
+      "blog_post": 0,
+      "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "blog_post": 3
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-06-21T05:20:48.807Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-06-21T05:20:48.807Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://claude.com/blog/claude-managed-agents-updates",
+      "source": "blog",
+      "sourceName": "Claude Blog",
+      "handle": null,
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run...",
+      "score": 76,
+      "publishedAt": "May 19, 2026",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
