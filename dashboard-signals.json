@@ -1,24 +1,21 @@
 {
-  "generatedAt": "2026-06-26T04:42:28.959Z",
+  "generatedAt": "2026-06-27T04:18:40.363Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 1,
+    "blogPosts": 0,
     "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
+      "jike_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
