@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-06T04:42:25.710Z",
+  "generatedAt": "2026-07-07T04:18:32.135Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 1,
+    "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -18,24 +18,7 @@
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {
-      "jike_post": 1
-    }
+    "highSignalCounts": {}
   },
-  "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6a464a6c64a7b806f12248f6",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。",
-      "url": "https://m.okjike.com/originalPosts/6a464a6c64a7b806f12248f6",
-      "summary": "前段时间跟 koji 和天杰聊了一下 GUI 软件的这个事。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https://www.xiaoyuzhoufm.com/episode/6a4511d92e335a35a80c8431?s=eyJ1IjoiNWU3YzYyMmNiM2M1YmNhNWY2NDExMDg5In0%3D&quot;&gt;十字路口Crossing - Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？&lt;/a&gt;",
-      "score": 84,
-      "publishedAt": "Thu, 02 Jul 2026 11:24:28 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    }
-  ]
+  "signals": []
 }
