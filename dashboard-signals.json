@@ -1,24 +1,44 @@
 {
-  "generatedAt": "2026-07-07T04:18:32.135Z",
+  "generatedAt": "2026-07-08T03:48:09.183Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 0,
+    "blogPosts": 1,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a4d3581228d9ca1691d43f5",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: 之前会把很久之前读过但不会重读的书，一本本摘出微信读书书架，这样每次上下滑动找书时，更容易找到合适的。 现在有了微信读书的 weread-skill，发现最...",
+      "url": "https://m.okjike.com/originalPosts/6a4d3581228d9ca1691d43f5",
+      "summary": "之前会把很久之前读过但不会重读的书，一本本摘出微信读书书架，这样每次上下滑动找书时，更容易找到合适的。&lt;br&gt;&lt;br&gt;现在有了微信读书的 weread-skill，发现最好的方式是把自己读过的，已经感兴趣想要阅读的，全给添加到书架上。让 agent 调用 skill 去做筛选、回顾、比较。&lt;br&gt;&lt;br&gt;在这个场景中，明显感受到“主体”的差异。之前是“我”在阅读，现在是“它”也要阅读。",
+      "score": 88,
+      "publishedAt": "Tue, 07 Jul 2026 17:21:05 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
