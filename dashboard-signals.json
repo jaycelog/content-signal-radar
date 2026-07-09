@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-08T03:48:09.183Z",
+  "generatedAt": "2026-07-09T04:16:17.419Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 1,
-    "highSignalCount": 1,
+    "blogPosts": 4,
+    "highSignalCount": 5,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
       "jike_post": 10,
-      "blog_post": 1
+      "blog_post": 3
     },
     "postSeenCounts": {
       "jike_post": 10,
-      "blog_post": 1
+      "blog_post": 3
     },
     "seenFilteredCounts": {
       "jike_post": 0,
@@ -22,10 +22,25 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 1
+      "jike_post": 2,
+      "blog_post": 3
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a4f1d4664a7b806f10094a6",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: 昨天和 @杨攀同学 聊天，攀哥提了个说法： 以前是「手机预装APP」，以后是「Agent 预装 CLI/Skills」",
+      "url": "https://m.okjike.com/originalPosts/6a4f1d4664a7b806f10094a6",
+      "summary": "昨天和 @杨攀同学  聊天，攀哥提了个说法：&lt;br&gt;&lt;br&gt;以前是「手机预装APP」，以后是「Agent 预装 CLI/Skills」",
+      "score": 89,
+      "publishedAt": "Thu, 09 Jul 2026 04:02:14 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6a4d3581228d9ca1691d43f5",
       "source": "podcast",
@@ -34,8 +49,50 @@
       "title": "发布了: 之前会把很久之前读过但不会重读的书，一本本摘出微信读书书架，这样每次上下滑动找书时，更容易找到合适的。 现在有了微信读书的 weread-skill，发现最...",
       "url": "https://m.okjike.com/originalPosts/6a4d3581228d9ca1691d43f5",
       "summary": "之前会把很久之前读过但不会重读的书，一本本摘出微信读书书架，这样每次上下滑动找书时，更容易找到合适的。&lt;br&gt;&lt;br&gt;现在有了微信读书的 weread-skill，发现最好的方式是把自己读过的，已经感兴趣想要阅读的，全给添加到书架上。让 agent 调用 skill 去做筛选、回顾、比较。&lt;br&gt;&lt;br&gt;在这个场景中，明显感受到“主体”的差异。之前是“我”在阅读，现在是“它”也要阅读。",
-      "score": 88,
+      "score": 85,
       "publishedAt": "Tue, 07 Jul 2026 17:21:05 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-07-09T04:16:17.419Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-07-09T04:16:17.419Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://claude.com/blog/claude-managed-agents-updates",
+      "source": "blog",
+      "sourceName": "Claude Blog",
+      "handle": null,
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run...",
+      "score": 76,
+      "publishedAt": "May 19, 2026",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
