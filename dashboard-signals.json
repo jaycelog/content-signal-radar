@@ -1,41 +1,27 @@
 {
-  "generatedAt": "2026-07-13T04:03:09.402Z",
+  "generatedAt": "2026-07-14T03:38:32.467Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 1,
+    "blogPosts": 1,
+    "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
+      "blog_post": 1,
       "jike_post": 10
     },
     "postSeenCounts": {
+      "blog_post": 1,
       "jike_post": 10
     },
     "seenFilteredCounts": {
+      "blog_post": 0,
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {
-      "jike_post": 1
-    }
+    "highSignalCounts": {}
   },
-  "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6a4f1d4664a7b806f10094a6",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: 昨天和 @杨攀同学 聊天，攀哥提了个说法： 以前是「手机预装APP」，以后是「Agent 预装 CLI/Skills」",
-      "url": "https://m.okjike.com/originalPosts/6a4f1d4664a7b806f10094a6",
-      "summary": "昨天和 @杨攀同学  聊天，攀哥提了个说法：&lt;br&gt;&lt;br&gt;以前是「手机预装APP」，以后是「Agent 预装 CLI/Skills」",
-      "score": 84,
-      "publishedAt": "Thu, 09 Jul 2026 04:02:14 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    }
-  ]
+  "signals": []
 }
