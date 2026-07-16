@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-15T03:39:13.071Z",
+  "generatedAt": "2026-07-16T03:41:25.180Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -18,7 +18,24 @@
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a57a7b464a7b806f1cd3c10",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: 开车等红灯间隙，打开瑞幸小程序，想提前叫杯咖啡。 那弹弹不休的推广框，是真的烦人！ 赶紧快进到语音一句Agent下单完成的时间点吧。",
+      "url": "https://m.okjike.com/originalPosts/6a57a7b464a7b806f1cd3c10",
+      "summary": "开车等红灯间隙，打开瑞幸小程序，想提前叫杯咖啡。&lt;br&gt;&lt;br&gt;那弹弹不休的推广框，是真的烦人！&lt;br&gt;&lt;br&gt;赶紧快进到语音一句Agent下单完成的时间点吧。",
+      "score": 87,
+      "publishedAt": "Wed, 15 Jul 2026 15:31:00 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
