@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-07-21T03:49:11.503Z",
+  "generatedAt": "2026-07-22T03:50:12.177Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
+    "blogPosts": 1,
     "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
+      "blog_post": 1,
       "jike_post": 10
     },
     "postSeenCounts": {
+      "blog_post": 1,
       "jike_post": 10
     },
     "seenFilteredCounts": {
+      "blog_post": 0,
       "jike_post": 0
     },
     "demotedCounts": {},
