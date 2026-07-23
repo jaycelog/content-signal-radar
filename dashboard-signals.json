@@ -1,27 +1,55 @@
 {
-  "generatedAt": "2026-07-22T03:50:12.177Z",
+  "generatedAt": "2026-07-23T03:48:17.314Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 1,
-    "highSignalCount": 0,
+    "blogPosts": 0,
+    "highSignalCount": 2,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "blog_post": 1,
       "jike_post": 10
     },
     "postSeenCounts": {
-      "blog_post": 1,
       "jike_post": 10
     },
     "seenFilteredCounts": {
-      "blog_post": 0,
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 2
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a60dd1154aae0885e9f6863",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 一个 Codepilot 新版的预告： 在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力 比如说： • 可以用 Grok 去检索 Twitter 上...",
+      "url": "https://m.okjike.com/originalPosts/6a60dd1154aae0885e9f6863",
+      "summary": "一个 Codepilot 新版的预告：&lt;br&gt;&lt;br&gt;在下一个版本中，你可以指定每一个 SubAgent 所采用的模型，非常有意思的能力&lt;br&gt;&lt;br&gt;比如说：&lt;br&gt;• 可以用 Grok 去检索 Twitter 上的内容&lt;br&gt;• 让 DeepSeek 去生成文案&lt;br&gt;• 让 Kimi K3 去生成网页&lt;br&gt;&lt;br&gt;你可以通过 SubAgent 让各个模型发挥它们的长处&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;im...",
+      "score": 87,
+      "publishedAt": "Wed, 22 Jul 2026 15:09:05 GMT",
+      "topic": "neither",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://m.okjike.com/originalPosts/6a605a7a228d9ca169ea5275",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 没想到小红书模型训的也可以啊，我一直以为他们只做一些 Agent 方面的事情。 刚才看到他们在 2026 年的国际奥林匹克数学竞赛（IMO）上，那个 dots-note-...",
+      "url": "https://m.okjike.com/originalPosts/6a605a7a228d9ca169ea5275",
+      "summary": "没想到小红书模型训的也可以啊，我一直以为他们只做一些 Agent 方面的事情。&lt;br&gt;&lt;br&gt;刚才看到他们在 2026 年的国际奥林匹克数学竞赛（IMO）上，那个 dots-note-3.0以 42 分的满分成绩获得了满分金牌的认证，超过金牌线 13 分。这应该是第一次有模型在IMO官方评卷里拿到满分。全球范围内都是。&lt;br&gt;&lt;br&gt;IMO 主要是证明题，没有选择题之类的对错题，要看论证过程是否准确严密，需要评委去评审。模型在某一个题目上用了非常新颖的解法。&lt;br&gt;&lt;br&gt;我查了一...",
+      "score": 87,
+      "publishedAt": "Wed, 22 Jul 2026 05:51:54 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
