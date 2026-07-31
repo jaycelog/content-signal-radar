@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-07-30T03:32:41.067Z",
+  "generatedAt": "2026-07-31T03:53:30.335Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 25,
+    "xBuilders": 20,
     "totalTweets": 0,
-    "blogPosts": 0,
+    "blogPosts": 1,
     "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 8,
+      "blog_post": 1
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 8,
+      "blog_post": 1
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
@@ -24,16 +27,16 @@
   },
   "signals": [
     {
-      "id": "https://m.okjike.com/originalPosts/6a697982a561f233f233ef64",
+      "id": "https://m.okjike.com/originalPosts/6a6ad66dcfb5d08b3e3e9ac7",
       "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！ 充分发挥各个模型的能力长处，而且可以帮你节省成本。 你可以在一个聊天里启用、由...",
-      "url": "https://m.okjike.com/originalPosts/6a697982a561f233f233ef64",
-      "summary": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！&lt;br&gt;&lt;br&gt;充分发挥各个模型的能力长处，而且可以帮你节省成本。&lt;br&gt;&lt;br&gt;你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。&lt;br&gt;&lt;br&gt;比如这个任务，就是用 Grok 去检索 Twitter 信息，用 DeepSeek 生成文案，K3 生成网页，然后由 GLM 5.2 统筹。&lt;br&gt;&lt;br&gt;这里尝...",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: agent + x &gt; x + agent",
+      "url": "https://m.okjike.com/originalPosts/6a6ad66dcfb5d08b3e3e9ac7",
+      "summary": "agent + x &amp;gt; x + agent",
       "score": 87,
-      "publishedAt": "Wed, 29 Jul 2026 03:54:42 GMT",
-      "topic": "neither",
+      "publishedAt": "Thu, 30 Jul 2026 04:43:25 GMT",
+      "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
     }
