@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-08-01T03:53:29.546Z",
+  "generatedAt": "2026-08-02T03:55:45.760Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
+    "blogPosts": 1,
     "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 1
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
@@ -31,7 +34,7 @@
       "title": "发布了: Deepseek V4 Flash 更新到正式版了，Agent 能力大幅提升，超过了 V4 Pro 的 Preview 版本！ 官方测评成绩： Terminal Bench 2.1: 82.7 NL2Repo: 54.2 Cy...",
       "url": "https://m.okjike.com/originalPosts/6a6c416e141b85b2929cee72",
       "summary": "Deepseek V4 Flash 更新到正式版了，Agent 能力大幅提升，超过了 V4 Pro 的 Preview 版本！&lt;br&gt;&lt;br&gt;官方测评成绩：&lt;br&gt;&lt;br&gt;Terminal Bench 2.1: 82.7&lt;br&gt;NL2Repo: 54.2&lt;br&gt;Cybergym: 76.7&lt;br&gt;DeepSWE: 54.4&lt;br&gt;Toolathlon verified: 70.3&lt;br&gt;Agent Last Exam: 25.2&lt;br&gt...",
-      "score": 87,
+      "score": 85,
       "publishedAt": "Fri, 31 Jul 2026 06:32:14 GMT",
       "topic": "product_signal",
       "needsReview": false,
@@ -45,7 +48,7 @@
       "title": "发布了: 发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！ Codex 现在有专门给图像 Agent 做的 UI 模式了： 生成图片后，点击图片会单独弹出一个侧边栏预览...",
       "url": "https://m.okjike.com/originalPosts/6a6c216504b8cab15cf507c4",
       "summary": "发现了 Codex 一个非常牛逼的更新，好像没见他们宣传！&lt;br&gt;&lt;br&gt;Codex 现在有专门给图像 Agent 做的 UI 模式了：&lt;br&gt;&lt;br&gt;生成图片后，点击图片会单独弹出一个侧边栏预览窗口。在这里面，你可以直接对图片进行评论、擦除和调整大小。这完全是专门给 GPT Image 2.0 做的。&lt;br&gt;&lt;br&gt;左上角有一个切换按钮，切换以后，聊天流里就只显示图像，不显示那些文案了。&lt;br&gt;&lt;br&gt;这样你就可以专注于调整图像，快速看到聊天里生成的所有大...",
-      "score": 87,
+      "score": 85,
       "publishedAt": "Fri, 31 Jul 2026 04:15:33 GMT",
       "topic": "product_signal",
       "needsReview": false,
@@ -59,7 +62,7 @@
       "title": "发布了: agent + x &gt; x + agent",
       "url": "https://m.okjike.com/originalPosts/6a6ad66dcfb5d08b3e3e9ac7",
       "summary": "agent + x &amp;gt; x + agent",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Thu, 30 Jul 2026 04:43:25 GMT",
       "topic": "product_signal",
       "needsReview": false,
