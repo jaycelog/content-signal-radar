@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-06T03:42:24.682Z",
+  "generatedAt": "2026-08-07T03:18:02.367Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 2,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,10 +19,24 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 2
+      "jike_post": 3
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a749810e956e446c158b14b",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！ 它支持原生 30 秒的视频生成，支持 1080P。 并且支持“全能参考”：不只是文本、图像、视频...",
+      "url": "https://m.okjike.com/originalPosts/6a749810e956e446c158b14b",
+      "summary": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！&lt;br&gt;&lt;br&gt;它支持原生 30 秒的视频生成，支持 1080P。&lt;br&gt;&lt;br&gt;并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT、网页、Markdown 格式等一系列你能想到的信息。&lt;br&gt;&lt;br&gt;你可以把这些信息全部混在一起给它参考，让它生成视频，这个对 Agent 来说非常有帮助。&lt;br&gt;&lt;br&gt;价格方面：1080P：1.4 元/秒 • 720P：0.7 元/...",
+      "score": 87,
+      "publishedAt": "Thu, 06 Aug 2026 14:20:00 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6a73fceebd0563695bddb5c4",
       "source": "podcast",
@@ -31,7 +45,7 @@
       "title": "发布了: 扎克伯格又掀桌子！ 他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。 这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。 ...",
       "url": "https://m.okjike.com/originalPosts/6a73fceebd0563695bddb5c4",
       "summary": "扎克伯格又掀桌子！&lt;br&gt;&lt;br&gt;他们发了一个新的模型 Muse Spark 1.2 和 Muse Code 编程 Agent。&lt;br&gt;&lt;br&gt;这玩意价钱便宜得相当于白送，前提是你同意他们的数据收集要求。&lt;br&gt;&lt;br&gt;我让 AI 做了一张它和 GPT-Luna 还有 DeepSeek-Flash 的价格对比&lt;br&gt;&lt;br&gt;当然，你要想用 Meta 的模型，比用 Anthropic 的模型都麻烦。&lt;br&gt;&lt;br&gt;我根本无法访问它，它直...",
-      "score": 89,
+      "score": 87,
       "publishedAt": "Thu, 06 Aug 2026 03:18:06 GMT",
       "topic": "product_signal",
       "needsReview": false,
