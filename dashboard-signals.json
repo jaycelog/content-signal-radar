@@ -1,66 +1,84 @@
 {
-  "generatedAt": "2026-08-12T02:47:07.905Z",
+  "generatedAt": "2026-08-13T03:01:32.125Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 3,
+    "blogPosts": 4,
+    "highSignalCount": 4,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 3
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 3
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3
+      "jike_post": 1,
+      "blog_post": 3
     }
   },
   "signals": [
     {
-      "id": "https://m.okjike.com/originalPosts/6a7ad1f9bd0563695b8e8133",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 看来 Deepseek 的 Agent 要发了呀。 他们注册了 Deepseek Harness 团队的公众号。",
-      "url": "https://m.okjike.com/originalPosts/6a7ad1f9bd0563695b8e8133",
-      "summary": "看来 Deepseek 的 Agent 要发了呀。&lt;br&gt;&lt;br&gt;他们注册了 Deepseek Harness 团队的公众号。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FonVW3yp4jIlOiY9PA0knO6VCXa_v3.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;",
-      "score": 87,
-      "publishedAt": "Tue, 11 Aug 2026 07:40:41 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6a749810e956e446c158b14b",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！ 它支持原生 30 秒的视频生成，支持 1080P。 并且支持“全能参考”：不只是文本、图像、视频...",
-      "url": "https://m.okjike.com/originalPosts/6a749810e956e446c158b14b",
-      "summary": "阿里的 Wan 3.0 视频生成模型也发布了，看起来也挺厉害啊！&lt;br&gt;&lt;br&gt;它支持原生 30 秒的视频生成，支持 1080P。&lt;br&gt;&lt;br&gt;并且支持“全能参考”：不只是文本、图像、视频、音频，它还支持文档、表格、PPT、网页、Markdown 格式等一系列你能想到的信息。&lt;br&gt;&lt;br&gt;你可以把这些信息全部混在一起给它参考，让它生成视频，这个对 Agent 来说非常有帮助。&lt;br&gt;&lt;br&gt;价格方面：1080P：1.4 元/秒 • 720P：0.7 元/...",
-      "score": 84,
-      "publishedAt": "Thu, 06 Aug 2026 14:20:00 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6a6ad66dcfb5d08b3e3e9ac7",
+      "id": "https://m.okjike.com/originalPosts/6a7c8aae89d3060ffe99402f",
       "source": "podcast",
       "sourceName": "李继刚",
       "handle": "李继刚",
-      "title": "发布了: agent + x &gt; x + agent",
-      "url": "https://m.okjike.com/originalPosts/6a6ad66dcfb5d08b3e3e9ac7",
-      "summary": "agent + x &amp;gt; x + agent",
-      "score": 84,
-      "publishedAt": "Thu, 30 Jul 2026 04:43:25 GMT",
+      "title": "发布了: 这篇《接口与入口》，在今天的语境下，就是 Agent + X 和 X + Agent 的路线之争了。",
+      "url": "https://m.okjike.com/originalPosts/6a7c8aae89d3060ffe99402f",
+      "summary": "这篇《接口与入口》，在今天的语境下，就是 Agent + X 和 X + Agent 的路线之争了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FmLeq0Ap_pxL3hHKEShzQ6gVQ19Xv3.png?imageMogr2/meta-keep-list/ZXhpZixVc2VyQ29tbWVudA==/auto-orient&quot; referrerpolicy=&quot;no-referrer&quot;&gt;",
+      "score": 87,
+      "publishedAt": "Wed, 12 Aug 2026 15:01:02 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-08-13T03:01:32.125Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-08-13T03:01:32.125Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://claude.com/blog/claude-managed-agents-updates",
+      "source": "blog",
+      "sourceName": "Claude Blog",
+      "handle": null,
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run...",
+      "score": 76,
+      "publishedAt": "May 19, 2026",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
