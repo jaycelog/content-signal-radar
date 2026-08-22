@@ -1,24 +1,87 @@
 {
-  "generatedAt": "2026-08-21T01:59:32.171Z",
+  "generatedAt": "2026-08-22T01:52:41.499Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 0,
+    "blogPosts": 4,
+    "highSignalCount": 4,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 3
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 3
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1,
+      "blog_post": 3
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6a881c96756bbb6658b96726",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: Deepseek 的多模态能力终于上了!是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文...",
+      "url": "https://m.okjike.com/originalPosts/6a881c96756bbb6658b96726",
+      "summary": "Deepseek 的多模态能力终于上了!是一个单独的模型，Deepseek V4 Flash Vision EXP。&lt;br&gt;&lt;br&gt;他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。&lt;br&gt;&lt;br&gt;纯文本能力跟 Deepseek V4 Flash 一样。在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。&lt;br&gt;&lt;br&gt;同时 DeepSeek Harness 已经第一时间支持了这个模型。&lt...",
+      "score": 87,
+      "publishedAt": "Fri, 21 Aug 2026 09:38:30 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-08-22T01:52:41.499Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-08-22T01:52:41.499Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://claude.com/blog/claude-managed-agents-updates",
+      "source": "blog",
+      "sourceName": "Claude Blog",
+      "handle": null,
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "url": "https://claude.com/blog/claude-managed-agents-updates",
+      "summary": "Starting today, Claude Managed Agents can operate in a sandbox you control and connect to your private Model Context Protocol (MCP) servers. Both the sandbox where an agent executes tools and the services it reaches run...",
+      "score": 76,
+      "publishedAt": "May 19, 2026",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
