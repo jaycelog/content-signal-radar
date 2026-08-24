@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:01:19.219Z",
+  "generatedAt": "2026-08-24T01:59:07.998Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -31,7 +31,7 @@
       "title": "发布了: Deepseek 的多模态能力终于上了!是一个单独的模型，Deepseek V4 Flash Vision EXP。 他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。 纯文...",
       "url": "https://m.okjike.com/originalPosts/6a881c96756bbb6658b96726",
       "summary": "Deepseek 的多模态能力终于上了!是一个单独的模型，Deepseek V4 Flash Vision EXP。&lt;br&gt;&lt;br&gt;他们说这个模型在多模态 Agent 上的能力已经逼近了 Opus 4.8。&lt;br&gt;&lt;br&gt;纯文本能力跟 Deepseek V4 Flash 一样。在价格上，DeepSeek V4 Flash Vision EXP 跟 DeepSeek V4 Flash 保持一致。&lt;br&gt;&lt;br&gt;同时 DeepSeek Harness 已经第一时间支持了这个模型。&lt...",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Fri, 21 Aug 2026 09:38:30 GMT",
       "topic": "product_signal",
       "needsReview": false,
