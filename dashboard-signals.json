@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:40:56.009Z",
+  "generatedAt": "2026-09-03T04:37:47.237Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -31,7 +31,7 @@
       "title": "发布了: 昨晚 Claude 发布了 Fable 5.1 和 Mythos 5.1，两者的权重相同。 输入输出价格和 Fable 5 一样，缓存价格降了 75%。 官方的说法是，按 token 计费的话，...",
       "url": "https://m.okjike.com/originalPosts/6a979d09cfb5d08b3ef22ff2",
       "summary": "昨晚 Claude 发布了 Fable 5.1 和 Mythos 5.1，两者的权重相同。&lt;br&gt;&lt;br&gt;输入输出价格和 Fable 5 一样，缓存价格降了 75%。&lt;br&gt;&lt;br&gt;官方的说法是，按 token 计费的话，典型负载大约会便宜 25%，重度 Agent 负载大概会便宜 45%。&lt;br&gt;&lt;br&gt;但时间线上全在说 Fable 5.1 的订阅额度消耗得非常快，可能 20 分钟、半小时整个额度就用光了。&lt;br&gt;&lt;br&gt;而且这模型还有一些更严重的问题：&...",
-      "score": 89,
+      "score": 85,
       "publishedAt": "Wed, 02 Sep 2026 03:50:33 GMT",
       "topic": "product_signal",
       "needsReview": false,
