@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-05T04:35:22.267Z",
+  "generatedAt": "2026-09-06T04:45:25.088Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 2,
+    "blogPosts": 1,
     "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
       "jike_post": 10,
-      "blog_post": 2
+      "blog_post": 1
     },
     "postSeenCounts": {
       "jike_post": 10,
-      "blog_post": 2
+      "blog_post": 1
     },
     "seenFilteredCounts": {
       "jike_post": 0,
