@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-18T04:49:40.581Z",
+  "generatedAt": "2026-09-19T04:42:28.276Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -18,7 +18,24 @@
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6aad64dccfb5d08b3e3eaf5c",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: Agent = Harness(LLM) Result = Agent(Context)",
+      "url": "https://m.okjike.com/originalPosts/6aad64dccfb5d08b3e3eaf5c",
+      "summary": "Agent = Harness(LLM)&lt;br&gt;&lt;br&gt;Result = Agent(Context)",
+      "score": 87,
+      "publishedAt": "Fri, 18 Sep 2026 16:20:44 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
