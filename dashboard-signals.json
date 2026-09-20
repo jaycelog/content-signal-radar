@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T04:42:28.276Z",
+  "generatedAt": "2026-09-20T04:58:08.068Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -31,7 +31,7 @@
       "title": "发布了: Agent = Harness(LLM) Result = Agent(Context)",
       "url": "https://m.okjike.com/originalPosts/6aad64dccfb5d08b3e3eaf5c",
       "summary": "Agent = Harness(LLM)&lt;br&gt;&lt;br&gt;Result = Agent(Context)",
-      "score": 87,
+      "score": 85,
       "publishedAt": "Fri, 18 Sep 2026 16:20:44 GMT",
       "topic": "product_signal",
       "needsReview": false,
