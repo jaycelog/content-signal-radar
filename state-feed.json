@@ -2,11 +2,11 @@
   "seenTweets": {},
   "seenVideos": {},
   "seenArticles": {
-    "https://claude.com/blog/artifacts-in-claude-code": 1789362131719,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1789534450627,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1789534451232,
     "https://www.anthropic.com/engineering/managed-agents": 1789534451837,
     "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1789534452447,
-    "https://claude.com/blog/cowork-is-now-claude": 1789621049939
+    "https://claude.com/blog/cowork-is-now-claude": 1789621049939,
+    "https://claude.com/blog/claude-in-chrome-generally-available": 1789966980874
   }
 }
