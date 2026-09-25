@@ -1,25 +1,29 @@
 {
-  "generatedAt": "2026-09-24T04:58:12.433Z",
+  "generatedAt": "2026-09-25T05:02:45.608Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 1,
+    "blogPosts": 5,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 4
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 4
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 1
+      "jike_post": 1,
+      "blog_post": 2
     }
   },
   "signals": [
@@ -33,6 +37,34 @@
       "summary": "Agent = Harness(LLM)&lt;br&gt;&lt;br&gt;Result = Agent(Context)",
       "score": 84,
       "publishedAt": "Fri, 18 Sep 2026 16:20:44 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-09-25T05:02:45.608Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-09-25T05:02:45.608Z",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
