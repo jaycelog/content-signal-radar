@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:23:21.123Z",
+  "generatedAt": "2026-09-28T05:30:14.734Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -31,7 +31,7 @@
       "title": "发布了: Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek...",
       "url": "https://m.okjike.com/originalPosts/6ab772a2141b85b2927fc6d9",
       "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多&lt;br&gt;&lt;br&gt;朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。&lt;br&gt;&lt;br&gt;刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。&lt;br&gt;&lt;br&gt;只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://c...",
-      "score": 87,
+      "score": 85,
       "publishedAt": "Sat, 26 Sep 2026 07:22:10 GMT",
       "topic": "product_signal",
       "needsReview": false,
