@@ -1,21 +1,24 @@
 {
-  "generatedAt": "2026-09-28T05:30:14.734Z",
+  "generatedAt": "2026-09-29T05:49:02.522Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 25,
+    "xBuilders": 15,
     "totalTweets": 0,
-    "blogPosts": 0,
+    "blogPosts": 1,
     "highSignalCount": 2,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 6,
+      "blog_post": 1
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 6,
+      "blog_post": 1
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
@@ -24,15 +27,15 @@
   },
   "signals": [
     {
-      "id": "https://m.okjike.com/originalPosts/6ab772a2141b85b2927fc6d9",
+      "id": "https://m.okjike.com/originalPosts/6abb20b2bd0563695b58ebe2",
       "source": "podcast",
       "sourceName": "歸藏",
       "handle": "歸藏",
-      "title": "发布了: Muse 这种带虚拟机的 Agent ，玩法超级多 朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。 刚好最近我也在用 Muse，就让它把 DeepSeek...",
-      "url": "https://m.okjike.com/originalPosts/6ab772a2141b85b2927fc6d9",
-      "summary": "Muse 这种带虚拟机的 Agent ，玩法超级多&lt;br&gt;&lt;br&gt;朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。&lt;br&gt;&lt;br&gt;刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。&lt;br&gt;&lt;br&gt;只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://c...",
-      "score": 85,
-      "publishedAt": "Sat, 26 Sep 2026 07:22:10 GMT",
+      "title": "发布了: Sonnet 5.5 发布了，这个模型很神奇：它在 Agentic coding 测试上的得分比 Opus 5.5 还要高 4 分。 定价上也非常便宜，每百万 token 输入输出的价格分别...",
+      "url": "https://m.okjike.com/originalPosts/6abb20b2bd0563695b58ebe2",
+      "summary": "Sonnet 5.5 发布了，这个模型很神奇：它在 Agentic coding 测试上的得分比 Opus 5.5 还要高 4 分。&lt;br&gt;&lt;br&gt;定价上也非常便宜，每百万 token 输入输出的价格分别是 $2 和 $10，与 GPT-6 Sol 一样。而且它的运行速度相对于 Sonnet 5 快了 30%，Claude 官方表示成本也降低了 30%。&lt;br&gt;&lt;br&gt;至于为什么它在 Agentic coding 上的表现跟 Opus 5.5 差不多甚至更高，可以看一下价格测试。&lt;br&gt;&lt...",
+      "score": 89,
+      "publishedAt": "Tue, 29 Sep 2026 02:21:38 GMT",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
