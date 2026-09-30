@@ -1,58 +1,18 @@
 {
-  "generatedAt": "2026-09-29T05:49:02.522Z",
+  "generatedAt": "2026-09-30T05:38:28.050Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 15,
+    "xBuilders": 0,
     "totalTweets": 0,
-    "blogPosts": 1,
-    "highSignalCount": 2,
+    "blogPosts": 0,
+    "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
-    "rawCounts": {
-      "jike_post": 6,
-      "blog_post": 1
-    },
-    "postSeenCounts": {
-      "jike_post": 6,
-      "blog_post": 1
-    },
-    "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
-    },
+    "rawCounts": {},
+    "postSeenCounts": {},
+    "seenFilteredCounts": {},
     "demotedCounts": {},
-    "highSignalCounts": {
-      "jike_post": 2
-    }
+    "highSignalCounts": {}
   },
-  "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6abb20b2bd0563695b58ebe2",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: Sonnet 5.5 发布了，这个模型很神奇：它在 Agentic coding 测试上的得分比 Opus 5.5 还要高 4 分。 定价上也非常便宜，每百万 token 输入输出的价格分别...",
-      "url": "https://m.okjike.com/originalPosts/6abb20b2bd0563695b58ebe2",
-      "summary": "Sonnet 5.5 发布了，这个模型很神奇：它在 Agentic coding 测试上的得分比 Opus 5.5 还要高 4 分。&lt;br&gt;&lt;br&gt;定价上也非常便宜，每百万 token 输入输出的价格分别是 $2 和 $10，与 GPT-6 Sol 一样。而且它的运行速度相对于 Sonnet 5 快了 30%，Claude 官方表示成本也降低了 30%。&lt;br&gt;&lt;br&gt;至于为什么它在 Agentic coding 上的表现跟 Opus 5.5 差不多甚至更高，可以看一下价格测试。&lt;br&gt;&lt...",
-      "score": 89,
-      "publishedAt": "Tue, 29 Sep 2026 02:21:38 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6aad64dccfb5d08b3e3eaf5c",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: Agent = Harness(LLM) Result = Agent(Context)",
-      "url": "https://m.okjike.com/originalPosts/6aad64dccfb5d08b3e3eaf5c",
-      "summary": "Agent = Harness(LLM)&lt;br&gt;&lt;br&gt;Result = Agent(Context)",
-      "score": 84,
-      "publishedAt": "Fri, 18 Sep 2026 16:20:44 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    }
-  ]
+  "signals": []
 }
