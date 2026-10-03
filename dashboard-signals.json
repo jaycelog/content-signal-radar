@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-10-02T05:46:00.915Z",
+  "generatedAt": "2026-10-03T05:23:43.342Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 3,
+    "blogPosts": 5,
+    "highSignalCount": 5,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 4
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 4
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3
+      "jike_post": 3,
+      "blog_post": 2
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多...",
+      "url": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
+      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色&lt;br&gt;&lt;br&gt;它可以帮你分配任务和创建各种不同的 Bot 分配任务&lt;br&gt;&lt;br&gt;易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了&lt;br&gt;&lt;br&gt;用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/F...",
+      "score": 87,
+      "publishedAt": "Fri, 02 Oct 2026 15:04:15 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6abf3943756bbb665886c1d3",
       "source": "podcast",
@@ -31,23 +49,9 @@
       "title": "发布了: 最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮...",
       "url": "https://m.okjike.com/originalPosts/6abf3943756bbb665886c1d3",
       "summary": "最近 Agent 也像以前的一些软件一样出现了分化：&lt;br&gt;&lt;br&gt;1. Personal Agent（面向大众与生活类工具）：&lt;br&gt;&lt;br&gt;这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。&lt;br&gt;&lt;br&gt;它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。&lt;br&gt;&lt;br&gt;2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）：&lt;br&gt;...",
-      "score": 89,
+      "score": 85,
       "publishedAt": "Fri, 02 Oct 2026 04:55:31 GMT",
       "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6abf2aaeb461ecb1009d2de4",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。 似乎所...",
-      "url": "https://m.okjike.com/originalPosts/6abf2aaeb461ecb1009d2de4",
-      "summary": "昨天晚上 Anthropic 推出了 Claude mods，PI最近 1.0 更新也推出了 code mode，再加上 Codex 更新的插件系统和 DeepSeek harness 的一切皆插件。&lt;br&gt;&lt;br&gt;似乎所有的这种超级 Agent 都在开发类似的功能，可以让用户自己往 Agent 上叠加功能的插件体系。&lt;br&gt;&lt;br&gt;但是这几个的作用位置以及工作原理都不太一样。我跟Muse 讨论了一下，收集了信息，然后做了张图，让大家用更简单的方式去理解这 4 个产品，以及它们这套插件系统不同的能力。&l...",
-      "score": 89,
-      "publishedAt": "Fri, 02 Oct 2026 03:53:18 GMT",
-      "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
     },
@@ -61,6 +65,34 @@
       "summary": "顺着Muse倒推，可以发现不少蛛丝马迹。&lt;br&gt;&lt;br&gt;比如收购Manus，当时有很多分析认为，Meta是病急乱投医，花20亿美金买一个炒作起来的网红产品。&lt;br&gt;&lt;br&gt;但Meta的AI实验室最近一年的外部动作，就是找Agent的技术，除了Manus，Meta还接触过消费级智能体平台Dreamer，最后也是全款拿下，连人带公司一起收购。&lt;br&gt;&lt;br&gt;对了，Dreamer的联合创始人也是我们的熟人，Hugo Barra，和我一样的米粉应该都记得这个名字，他在2013年到2017年...",
       "score": 84,
       "publishedAt": "Wed, 30 Sep 2026 03:53:26 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-10-03T05:23:43.342Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-10-03T05:23:43.342Z",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
