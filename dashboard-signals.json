@@ -1,32 +1,56 @@
 {
-  "generatedAt": "2026-10-03T05:23:43.342Z",
+  "generatedAt": "2026-10-04T05:59:20.307Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 5,
+    "blogPosts": 0,
     "highSignalCount": 5,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10,
-      "blog_post": 4
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "jike_post": 10,
-      "blog_post": 4
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
+      "jike_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3,
-      "blog_post": 2
+      "jike_post": 5
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: 回看 Agent 的发展，基本是一路补短板： - 缺少当前事实，就加检索和数据接口 - 长任务容易丢信息，就加状态保存和上下文管理 - 工具调用会失败，就加重...",
+      "url": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
+      "summary": "回看 Agent 的发展，基本是一路补短板：&lt;br&gt;&lt;br&gt;- 缺少当前事实，就加检索和数据接口&lt;br&gt;- 长任务容易丢信息，就加状态保存和上下文管理&lt;br&gt;- 工具调用会失败，就加重试、检查和恢复&lt;br&gt;- 行动可能越权，就加权限隔离和审批&lt;br&gt;- 结果看着对但不达标，就加测试和验收&lt;br&gt;&lt;br&gt;这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。&lt;br&gt;&lt;br&gt;但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销...",
+      "score": 89,
+      "publishedAt": "Sun, 04 Oct 2026 03:03:19 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。 Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
+      "url": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
+      "summary": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。&lt;br&gt;&lt;br&gt;Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
+      "score": 89,
+      "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
       "source": "podcast",
@@ -35,7 +59,7 @@
       "title": "发布了: Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多...",
       "url": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
       "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色&lt;br&gt;&lt;br&gt;它可以帮你分配任务和创建各种不同的 Bot 分配任务&lt;br&gt;&lt;br&gt;易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了&lt;br&gt;&lt;br&gt;用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/F...",
-      "score": 87,
+      "score": 85,
       "publishedAt": "Fri, 02 Oct 2026 15:04:15 GMT",
       "topic": "product_signal",
       "needsReview": false,
@@ -49,7 +73,7 @@
       "title": "发布了: 最近 Agent 也像以前的一些软件一样出现了分化： 1. Personal Agent（面向大众与生活类工具）： 这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮...",
       "url": "https://m.okjike.com/originalPosts/6abf3943756bbb665886c1d3",
       "summary": "最近 Agent 也像以前的一些软件一样出现了分化：&lt;br&gt;&lt;br&gt;1. Personal Agent（面向大众与生活类工具）：&lt;br&gt;&lt;br&gt;这是为 C 端非专业用户设计的工具，比如 Muse 和 dot 帮助他们更好地生活、处理简单的工作。&lt;br&gt;&lt;br&gt;它的特点是上手门槛非常低，只需要通过对话就可以完成任务，并且还会配有一个远程虚拟机供用户自己使用。&lt;br&gt;&lt;br&gt;2. 极致自定义与自我构建的 Agent（面向专家与专业技能人群）：&lt;br&gt;...",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Fri, 02 Oct 2026 04:55:31 GMT",
       "topic": "both",
       "needsReview": false,
@@ -65,34 +89,6 @@
       "summary": "顺着Muse倒推，可以发现不少蛛丝马迹。&lt;br&gt;&lt;br&gt;比如收购Manus，当时有很多分析认为，Meta是病急乱投医，花20亿美金买一个炒作起来的网红产品。&lt;br&gt;&lt;br&gt;但Meta的AI实验室最近一年的外部动作，就是找Agent的技术，除了Manus，Meta还接触过消费级智能体平台Dreamer，最后也是全款拿下，连人带公司一起收购。&lt;br&gt;&lt;br&gt;对了，Dreamer的联合创始人也是我们的熟人，Hugo Barra，和我一样的米粉应该都记得这个名字，他在2013年到2017年...",
       "score": 84,
       "publishedAt": "Wed, 30 Sep 2026 03:53:26 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "source": "blog",
-      "sourceName": "Anthropic Engineering",
-      "handle": null,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
-      "score": 77,
-      "publishedAt": "2026-10-03T05:23:43.342Z",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://www.anthropic.com/engineering/managed-agents",
-      "source": "blog",
-      "sourceName": "Anthropic Engineering",
-      "handle": null,
-      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
-      "url": "https://www.anthropic.com/engineering/managed-agents",
-      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
-      "score": 77,
-      "publishedAt": "2026-10-03T05:23:43.342Z",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
