@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T05:48:15.172Z",
+  "generatedAt": "2026-10-06T06:27:29.790Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 4,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,7 +19,7 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 4
+      "jike_post": 3
     }
   },
   "signals": [
@@ -31,7 +31,7 @@
       "title": "发布了: 回看 Agent 的发展，基本是一路补短板： - 缺少当前事实，就加检索和数据接口 - 长任务容易丢信息，就加状态保存和上下文管理 - 工具调用会失败，就加重...",
       "url": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
       "summary": "回看 Agent 的发展，基本是一路补短板：&lt;br&gt;&lt;br&gt;- 缺少当前事实，就加检索和数据接口&lt;br&gt;- 长任务容易丢信息，就加状态保存和上下文管理&lt;br&gt;- 工具调用会失败，就加重试、检查和恢复&lt;br&gt;- 行动可能越权，就加权限隔离和审批&lt;br&gt;- 结果看着对但不达标，就加测试和验收&lt;br&gt;&lt;br&gt;这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。&lt;br&gt;&lt;br&gt;但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销...",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Sun, 04 Oct 2026 03:03:19 GMT",
       "topic": "product_signal",
       "needsReview": false,
@@ -45,22 +45,8 @@
       "title": "发布了: AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。 Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
       "url": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
       "summary": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。&lt;br&gt;&lt;br&gt;Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
-      "score": 85,
-      "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色 它可以帮你分配任务和创建各种不同的 Bot 分配任务 易用性一下好了不少，让普通用户上来自己自定义多...",
-      "url": "https://m.okjike.com/originalPosts/6abfc7ef141b85b2925a6d4e",
-      "summary": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色&lt;br&gt;&lt;br&gt;它可以帮你分配任务和创建各种不同的 Bot 分配任务&lt;br&gt;&lt;br&gt;易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了&lt;br&gt;&lt;br&gt;用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/F...",
       "score": 84,
-      "publishedAt": "Fri, 02 Oct 2026 15:04:15 GMT",
+      "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
