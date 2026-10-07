@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-06T06:27:29.790Z",
+  "generatedAt": "2026-10-07T06:06:35.475Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 3,
+    "highSignalCount": 4,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,10 +19,24 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3
+      "jike_post": 4
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac52f9a756bbb665820e46b",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pr...",
+      "url": "https://m.okjike.com/originalPosts/6ac52f9a756bbb665820e46b",
+      "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！&lt;br&gt;&lt;br&gt;会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！&lt;br&gt;&lt;br&gt;整体非常漂亮，而且细节很丰富，那些动效非常的细腻。&lt;br&gt;&lt;br&gt;然后他们左侧这个卡片也很有意思，它是 AI 自定义的。&lt;br&gt;&lt;br&gt;不知道现在还有没有？我是前几天就申请了，所以上来就送了&lt;br&gt;&lt;...",
+      "score": 87,
+      "publishedAt": "Tue, 06 Oct 2026 17:27:54 GMT",
+      "topic": "both",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
       "source": "podcast",
