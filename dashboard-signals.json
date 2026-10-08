@@ -1,83 +1,18 @@
 {
-  "generatedAt": "2026-10-07T06:06:35.475Z",
+  "generatedAt": "2026-10-08T06:12:04.692Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 25,
+    "xBuilders": 0,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 4,
+    "highSignalCount": 0,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
-    "rawCounts": {
-      "jike_post": 10
-    },
-    "postSeenCounts": {
-      "jike_post": 10
-    },
-    "seenFilteredCounts": {
-      "jike_post": 0
-    },
+    "rawCounts": {},
+    "postSeenCounts": {},
+    "seenFilteredCounts": {},
     "demotedCounts": {},
-    "highSignalCounts": {
-      "jike_post": 4
-    }
+    "highSignalCounts": {}
   },
-  "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6ac52f9a756bbb665820e46b",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！ 会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pr...",
-      "url": "https://m.okjike.com/originalPosts/6ac52f9a756bbb665820e46b",
-      "summary": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！&lt;br&gt;&lt;br&gt;会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！&lt;br&gt;&lt;br&gt;整体非常漂亮，而且细节很丰富，那些动效非常的细腻。&lt;br&gt;&lt;br&gt;然后他们左侧这个卡片也很有意思，它是 AI 自定义的。&lt;br&gt;&lt;br&gt;不知道现在还有没有？我是前几天就申请了，所以上来就送了&lt;br&gt;&lt;...",
-      "score": 87,
-      "publishedAt": "Tue, 06 Oct 2026 17:27:54 GMT",
-      "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: 回看 Agent 的发展，基本是一路补短板： - 缺少当前事实，就加检索和数据接口 - 长任务容易丢信息，就加状态保存和上下文管理 - 工具调用会失败，就加重...",
-      "url": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
-      "summary": "回看 Agent 的发展，基本是一路补短板：&lt;br&gt;&lt;br&gt;- 缺少当前事实，就加检索和数据接口&lt;br&gt;- 长任务容易丢信息，就加状态保存和上下文管理&lt;br&gt;- 工具调用会失败，就加重试、检查和恢复&lt;br&gt;- 行动可能越权，就加权限隔离和审批&lt;br&gt;- 结果看着对但不达标，就加测试和验收&lt;br&gt;&lt;br&gt;这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。&lt;br&gt;&lt;br&gt;但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销...",
-      "score": 84,
-      "publishedAt": "Sun, 04 Oct 2026 03:03:19 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。 Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
-      "url": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
-      "summary": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。&lt;br&gt;&lt;br&gt;Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
-      "score": 84,
-      "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6abc87b67a377818ba3ac885",
-      "source": "podcast",
-      "sourceName": "阑夕",
-      "handle": "阑夕",
-      "title": "发布了: 顺着Muse倒推，可以发现不少蛛丝马迹。 比如收购Manus，当时有很多分析认为，Meta是病急乱投医，花20亿美金买一个炒作起来的网红产品。 但Meta的AI实验...",
-      "url": "https://m.okjike.com/originalPosts/6abc87b67a377818ba3ac885",
-      "summary": "顺着Muse倒推，可以发现不少蛛丝马迹。&lt;br&gt;&lt;br&gt;比如收购Manus，当时有很多分析认为，Meta是病急乱投医，花20亿美金买一个炒作起来的网红产品。&lt;br&gt;&lt;br&gt;但Meta的AI实验室最近一年的外部动作，就是找Agent的技术，除了Manus，Meta还接触过消费级智能体平台Dreamer，最后也是全款拿下，连人带公司一起收购。&lt;br&gt;&lt;br&gt;对了，Dreamer的联合创始人也是我们的熟人，Hugo Barra，和我一样的米粉应该都记得这个名字，他在2013年到2017年...",
-      "score": 84,
-      "publishedAt": "Wed, 30 Sep 2026 03:53:26 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    }
-  ]
+  "signals": []
 }
