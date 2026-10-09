@@ -1,18 +1,83 @@
 {
-  "generatedAt": "2026-10-08T06:12:04.692Z",
+  "generatedAt": "2026-10-09T06:15:32.514Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 0,
+    "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 0,
+    "highSignalCount": 4,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
-    "rawCounts": {},
-    "postSeenCounts": {},
-    "seenFilteredCounts": {},
+    "rawCounts": {
+      "jike_post": 10
+    },
+    "postSeenCounts": {
+      "jike_post": 10
+    },
+    "seenFilteredCounts": {
+      "jike_post": 0
+    },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 4
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac84a9f25fdb6c8bbb9edc8",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这...",
+      "url": "https://m.okjike.com/originalPosts/6ac84a9f25fdb6c8bbb9edc8",
+      "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。&lt;br&gt;&lt;br&gt;我们继续聊了聊关于 personal agent 的话题：&lt;br&gt;• 为什么 Dots 这么难用&lt;br&gt;• 为什么国内 personal agent 可能不成立&lt;br&gt;&lt;br&gt;也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。&lt;br&gt;&lt;br&gt;第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,0...",
+      "score": 89,
+      "publishedAt": "Fri, 09 Oct 2026 01:59:59 GMT",
+      "topic": "both",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://m.okjike.com/reposts/6ac784efbd0563695b9f64ec",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "转发了: 再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调...",
+      "url": "https://m.okjike.com/reposts/6ac784efbd0563695b9f64ec",
+      "summary": "再分享个邪修用法：&lt;br&gt;&lt;br&gt;在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。&lt;br&gt;&lt;br&gt;然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了&lt;br&gt;&lt;br&gt;&lt;div class=&quot;rsshub-quote&quot;&gt;转发 &lt;a href=&quot;https://m.okjike.com/users/0a...",
+      "score": 87,
+      "publishedAt": "Thu, 08 Oct 2026 11:56:31 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: 回看 Agent 的发展，基本是一路补短板： - 缺少当前事实，就加检索和数据接口 - 长任务容易丢信息，就加状态保存和上下文管理 - 工具调用会失败，就加重...",
+      "url": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
+      "summary": "回看 Agent 的发展，基本是一路补短板：&lt;br&gt;&lt;br&gt;- 缺少当前事实，就加检索和数据接口&lt;br&gt;- 长任务容易丢信息，就加状态保存和上下文管理&lt;br&gt;- 工具调用会失败，就加重试、检查和恢复&lt;br&gt;- 行动可能越权，就加权限隔离和审批&lt;br&gt;- 结果看着对但不达标，就加测试和验收&lt;br&gt;&lt;br&gt;这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。&lt;br&gt;&lt;br&gt;但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销...",
+      "score": 84,
+      "publishedAt": "Sun, 04 Oct 2026 03:03:19 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
+      "source": "podcast",
+      "sourceName": "李继刚",
+      "handle": "李继刚",
+      "title": "发布了: AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。 Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
+      "url": "https://m.okjike.com/originalPosts/6ac1c12bcfb5d08b3e58be2b",
+      "summary": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。&lt;br&gt;&lt;br&gt;Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
+      "score": 84,
+      "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
