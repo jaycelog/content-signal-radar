@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-09T06:15:32.514Z",
+  "generatedAt": "2026-10-10T05:58:39.162Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 4,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,7 +19,7 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 4
+      "jike_post": 3
     }
   },
   "signals": [
@@ -31,23 +31,9 @@
       "title": "发布了: Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这...",
       "url": "https://m.okjike.com/originalPosts/6ac84a9f25fdb6c8bbb9edc8",
       "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。&lt;br&gt;&lt;br&gt;我们继续聊了聊关于 personal agent 的话题：&lt;br&gt;• 为什么 Dots 这么难用&lt;br&gt;• 为什么国内 personal agent 可能不成立&lt;br&gt;&lt;br&gt;也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。&lt;br&gt;&lt;br&gt;第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,0...",
-      "score": 89,
+      "score": 85,
       "publishedAt": "Fri, 09 Oct 2026 01:59:59 GMT",
       "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/reposts/6ac784efbd0563695b9f64ec",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "转发了: 再分享个邪修用法： 在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。 然后让 Grok Bot 调...",
-      "url": "https://m.okjike.com/reposts/6ac784efbd0563695b9f64ec",
-      "summary": "再分享个邪修用法：&lt;br&gt;&lt;br&gt;在 Agent 的云电脑里装个 Pi 或者 DeepSeek Harness 这类编程 Agent，把你其他 Code plan 用不完的额度配进去。&lt;br&gt;&lt;br&gt;然后让 Grok Bot 调这些 token 去写代码、渲染视频，闲着的额度也就不浪费了&lt;br&gt;&lt;br&gt;&lt;div class=&quot;rsshub-quote&quot;&gt;转发 &lt;a href=&quot;https://m.okjike.com/users/0a...",
-      "score": 87,
-      "publishedAt": "Thu, 08 Oct 2026 11:56:31 GMT",
-      "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
     },
