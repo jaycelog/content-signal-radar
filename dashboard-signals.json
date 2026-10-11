@@ -1,42 +1,32 @@
 {
-  "generatedAt": "2026-10-10T05:58:39.162Z",
+  "generatedAt": "2026-10-11T05:54:19.012Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 0,
-    "highSignalCount": 3,
+    "blogPosts": 3,
+    "highSignalCount": 4,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 2
     },
     "postSeenCounts": {
-      "jike_post": 10
+      "jike_post": 10,
+      "blog_post": 2
     },
     "seenFilteredCounts": {
-      "jike_post": 0
+      "jike_post": 0,
+      "blog_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3
+      "jike_post": 2,
+      "blog_post": 2
     }
   },
   "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6ac84a9f25fdb6c8bbb9edc8",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。 我们继续聊了聊关于 personal agent 的话题： • 为什么 Dots 这...",
-      "url": "https://m.okjike.com/originalPosts/6ac84a9f25fdb6c8bbb9edc8",
-      "summary": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。&lt;br&gt;&lt;br&gt;我们继续聊了聊关于 personal agent 的话题：&lt;br&gt;• 为什么 Dots 这么难用&lt;br&gt;• 为什么国内 personal agent 可能不成立&lt;br&gt;&lt;br&gt;也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。&lt;br&gt;&lt;br&gt;第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,0...",
-      "score": 85,
-      "publishedAt": "Fri, 09 Oct 2026 01:59:59 GMT",
-      "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
     {
       "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
       "source": "podcast",
@@ -61,6 +51,34 @@
       "summary": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。&lt;br&gt;&lt;br&gt;Agent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
       "score": 84,
       "publishedAt": "Sun, 04 Oct 2026 02:59:55 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
+      "score": 77,
+      "publishedAt": "2026-10-11T05:54:19.012Z",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
+      "id": "https://www.anthropic.com/engineering/managed-agents",
+      "source": "blog",
+      "sourceName": "Anthropic Engineering",
+      "handle": null,
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "summary": "Get started with Claude Managed Agents by following our docs . A running topic on the Engineering Blog is how to build effective agents and design harnesses for long-running work . A common thread across this work is th...",
+      "score": 77,
+      "publishedAt": "2026-10-11T05:54:19.012Z",
       "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
