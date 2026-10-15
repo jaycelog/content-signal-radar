@@ -1,59 +1,28 @@
 {
-  "generatedAt": "2026-10-14T04:59:18.217Z",
+  "generatedAt": "2026-10-15T04:47:34.929Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 1,
-    "highSignalCount": 4,
+    "blogPosts": 0,
+    "highSignalCount": 2,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "jike_post": 10,
-      "blog_post": 1
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
+      "jike_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 4
+      "jike_post": 2
     }
   },
   "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6aceee41756bbb665826011f",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 只能说谷歌还是那个谷歌，基础设施垃圾到模型再牛逼都没用。 昨天晚上我想在 Antigravity 试一下 Gemini 4，结果他妈的那个思考连续卡住，动不动卡个几...",
-      "url": "https://m.okjike.com/originalPosts/6aceee41756bbb665826011f",
-      "summary": "只能说谷歌还是那个谷歌，基础设施垃圾到模型再牛逼都没用。&lt;br&gt;&lt;br&gt;昨天晚上我想在 Antigravity 试一下 Gemini 4，结果他妈的那个思考连续卡住，动不动卡个几千秒。&lt;br&gt;&lt;br&gt;然后我停止发送指令，再次卡住。那个自动审批跟没有一样，还是每一步都需要我手动操作。&lt;br&gt;&lt;br&gt;即使是 API，我操，我自己的 Agent 适配以后也是各种问题。别干了，真的别干了，老老实实卖你的算力吧&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src...",
-      "score": 89,
-      "publishedAt": "Wed, 14 Oct 2026 02:51:45 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6ace4f724f611f71cf1f81cc",
-      "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 哎呀，突然想到自己还有很多 skill 没发 看大家想要哪个： 1. 口播视频字幕生成和剪辑 skill 2. 视频包装 skill 3. 微信公众号排版 skill 4. HTML 文档...",
-      "url": "https://m.okjike.com/originalPosts/6ace4f724f611f71cf1f81cc",
-      "summary": "哎呀，突然想到自己还有很多 skill 没发&lt;br&gt;&lt;br&gt;看大家想要哪个：&lt;br&gt;&lt;br&gt;1. 口播视频字幕生成和剪辑 skill&lt;br&gt;2. 视频包装 skill&lt;br&gt;3. 微信公众号排版 skill&lt;br&gt;4. HTML 文档排版 skill&lt;br&gt;5. 半成品 Personal Agent 个人上下文挂载工具",
-      "score": 87,
-      "publishedAt": "Tue, 13 Oct 2026 15:34:10 GMT",
-      "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
     {
       "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
       "source": "podcast",
