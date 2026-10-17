@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T04:37:46.068Z",
+  "generatedAt": "2026-10-17T04:35:02.248Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 2,
+    "highSignalCount": 3,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,10 +19,24 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 2
+      "jike_post": 3
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
+      "source": "podcast",
+      "sourceName": "阑夕",
+      "handle": "阑夕",
+      "title": "发布了: 明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。 能完成这个任务的产品，我愿尊为神祇。",
+      "url": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
+      "summary": "明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。&lt;br&gt;&lt;br&gt;能完成这个任务的产品，我愿尊为神祇。",
+      "score": 87,
+      "publishedAt": "Fri, 16 Oct 2026 12:03:37 GMT",
+      "topic": "both",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
       "source": "podcast",
