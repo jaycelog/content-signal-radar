@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:40:21.547Z",
+  "generatedAt": "2026-10-19T04:48:24.372Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -24,6 +24,20 @@
   },
   "signals": [
     {
+      "id": "https://m.okjike.com/originalPosts/6ad58e3ccfb5d08b3e659d57",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成...",
+      "url": "https://m.okjike.com/originalPosts/6ad58e3ccfb5d08b3e659d57",
+      "summary": "我们在这一期《Next Token》播客里的一些核心认知：&lt;br&gt;&lt;br&gt;橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃&lt;br&gt;&lt;br&gt;所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式&lt;br&gt;&lt;br&gt;多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升&lt;br&gt;&...",
+      "score": 89,
+      "publishedAt": "Mon, 19 Oct 2026 03:27:56 GMT",
+      "topic": "both",
+      "needsReview": false,
+      "reviewNote": null
+    },
+    {
       "id": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
       "source": "podcast",
       "sourceName": "阑夕",
@@ -31,23 +45,9 @@
       "title": "发布了: 明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。 能完成这个任务的产品，我愿尊为神祇。",
       "url": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
       "summary": "明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。&lt;br&gt;&lt;br&gt;能完成这个任务的产品，我愿尊为神祇。",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Fri, 16 Oct 2026 12:03:37 GMT",
       "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: 回看 Agent 的发展，基本是一路补短板： - 缺少当前事实，就加检索和数据接口 - 长任务容易丢信息，就加状态保存和上下文管理 - 工具调用会失败，就加重...",
-      "url": "https://m.okjike.com/originalPosts/6ac1c1f7bd0563695b082900",
-      "summary": "回看 Agent 的发展，基本是一路补短板：&lt;br&gt;&lt;br&gt;- 缺少当前事实，就加检索和数据接口&lt;br&gt;- 长任务容易丢信息，就加状态保存和上下文管理&lt;br&gt;- 工具调用会失败，就加重试、检查和恢复&lt;br&gt;- 行动可能越权，就加权限隔离和审批&lt;br&gt;- 结果看着对但不达标，就加测试和验收&lt;br&gt;&lt;br&gt;这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。&lt;br&gt;&lt;br&gt;但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销...",
-      "score": 84,
-      "publishedAt": "Sun, 04 Oct 2026 03:03:19 GMT",
-      "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
     }
