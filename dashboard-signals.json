@@ -1,46 +1,28 @@
 {
-  "generatedAt": "2026-10-20T04:56:58.984Z",
+  "generatedAt": "2026-10-21T04:56:19.598Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 2,
-    "highSignalCount": 4,
+    "blogPosts": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "jike_post": 10,
-      "blog_post": 2
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "jike_post": 10,
-      "blog_post": 2
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "jike_post": 0,
-      "blog_post": 0
+      "jike_post": 0
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 3,
-      "blog_post": 1
+      "jike_post": 1
     }
   },
   "signals": [
-    {
-      "id": "https://m.okjike.com/originalPosts/6ad64a09756bbb6658e8c951",
-      "source": "podcast",
-      "sourceName": "李继刚",
-      "handle": "李继刚",
-      "title": "发布了: agent 卖的是什么（token、result、seat），就会有相应的定价方式。 反过来，通过定价方式，可以看到厂家是如何定义自己的售卖对象。",
-      "url": "https://m.okjike.com/originalPosts/6ad64a09756bbb6658e8c951",
-      "summary": "agent 卖的是什么（token、result、seat），就会有相应的定价方式。&lt;br&gt;&lt;br&gt;反过来，通过定价方式，可以看到厂家是如何定义自己的售卖对象。",
-      "score": 87,
-      "publishedAt": "Mon, 19 Oct 2026 16:49:13 GMT",
-      "topic": "product_signal",
-      "needsReview": false,
-      "reviewNote": null
-    },
     {
       "id": "https://m.okjike.com/originalPosts/6ad58e3ccfb5d08b3e659d57",
       "source": "podcast",
@@ -49,37 +31,9 @@
       "title": "发布了: 我们在这一期《Next Token》播客里的一些核心认知： 橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成...",
       "url": "https://m.okjike.com/originalPosts/6ad58e3ccfb5d08b3e659d57",
       "summary": "我们在这一期《Next Token》播客里的一些核心认知：&lt;br&gt;&lt;br&gt;橘子说的：只要 AI 把一个东西打到了 60 分，这个东西就变成了 0 分。所以一个东西越火，越容易变成 AI slop，然后被大家抛弃&lt;br&gt;&lt;br&gt;所有的 skill prompt 软件，唯一价值其实就是流量价值。目前随着 AI 破解能力和复刻能力越来越强，开源作品换注意力、然后再做转化，是一个非常常见的方式&lt;br&gt;&lt;br&gt;多 Agent 拉群其实只有情绪价值，没办法带来能力上的提升&lt;br&gt;&...",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Mon, 19 Oct 2026 03:27:56 GMT",
       "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
-      "source": "podcast",
-      "sourceName": "阑夕",
-      "handle": "阑夕",
-      "title": "发布了: 明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。 能完成这个任务的产品，我愿尊为神祇。",
-      "url": "https://m.okjike.com/originalPosts/6ad21299141b85b2924157b6",
-      "summary": "明天早上9点前我要看到一篇「这款Personal Agent帮我抢到了iPhone Duo」的文章。&lt;br&gt;&lt;br&gt;能完成这个任务的产品，我愿尊为神祇。",
-      "score": 84,
-      "publishedAt": "Fri, 16 Oct 2026 12:03:37 GMT",
-      "topic": "both",
-      "needsReview": false,
-      "reviewNote": null
-    },
-    {
-      "id": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "source": "blog",
-      "sourceName": "Anthropic Engineering",
-      "handle": null,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "Over the past month, we’ve been looking into reports that Claude’s responses have worsened for some users. We’ve traced these reports to three separate changes that affected Claude Code, the Claude Agent SDK, and Claude...",
-      "score": 77,
-      "publishedAt": "2026-10-20T04:56:58.984Z",
-      "topic": "product_signal",
       "needsReview": false,
       "reviewNote": null
     }
