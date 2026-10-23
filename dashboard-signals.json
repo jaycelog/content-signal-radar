@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T04:56:33.379Z",
+  "generatedAt": "2026-10-23T04:58:29.883Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -18,7 +18,24 @@
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 1 Password 的 Agent 连接器全量上线了 可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页 登录的时候，1 Password 会完成密码和账号的填写...",
+      "url": "https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38",
+      "summary": "1 Password 的 Agent 连接器全量上线了&lt;br&gt;&lt;br&gt;可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页&lt;br&gt;&lt;br&gt;登录的时候，1 Password 会完成密码和账号的填写，所以 Agent 是不会看到密码的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FgSKvv1RNCo9NTbuHyVRZLNOzzOvv3.png?imageMogr2/meta-...",
+      "score": 89,
+      "publishedAt": "Fri, 23 Oct 2026 03:47:54 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
