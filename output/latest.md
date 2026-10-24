@@ -1,6 +1,6 @@
 # 📡 Content Signal Radar
 
-> 2026/10/23 12:58:29 · 1 条高信号 · 0 条原始推文
+> 2026/10/24 12:43:20 · 2 条高信号 · 0 条原始推文
 
 ## 今日判断
 
@@ -10,7 +10,14 @@ Agent 话题今天密度最高，@歸藏 的观点值得展开——评价 agent
 
 ## 信号
 
-### 1. 发布了: 1 Password 的 Agent 连接器全量上线了 可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页 登录的时候，1 Password 会完成密码和账号的填写...
+### 1. 发布了: 有人爆料说，Anthropic 非常重要的员工 Thariq，离职了。 他和 Boris Cherny是一直以来代表 Anthropic 跟大家沟通的人。 发表了非常多关于 Skill、Agent...
+[@歸藏](https://m.okjike.com/originalPosts/6adc301e756bbb665885ece0) · `🤖 Agent`
+
+不再是"能做什么"的问题，而是"能不能持续超出预期"——评价框架在变。 → 可写性高，优先扩成帖子
+
+[→ 原文](https://m.okjike.com/originalPosts/6adc301e756bbb665885ece0)
+
+### 2. 发布了: 1 Password 的 Agent 连接器全量上线了 可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页 登录的时候，1 Password 会完成密码和账号的填写...
 [@歸藏](https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38) · `🤖 Agent`
 
 不再是"能做什么"的问题，而是"能不能持续超出预期"——评价框架在变。 → 可写性高，优先扩成帖子
@@ -29,13 +36,24 @@ Agent 话题今天密度最高，@歸藏 的观点值得展开——评价 agent
 
 @歸藏 的判断指向一个更大的变化：产品评价从"完整性"转向"惊喜密度"。做内容也一样——读者记住的是超出预期的判断，不是信息搬运。
 
+https://m.okjike.com/originalPosts/6adc301e756bbb665885ece0
+
+### 草稿 2
+
+评价 agent 产品的标准变了。
+
+不看功能清单了——看一件事：它有没有做出过你没预料到的结果。
+
+@歸藏 的判断指向一个更大的变化：产品评价从"完整性"转向"惊喜密度"。做内容也一样——读者记住的是超出预期的判断，不是信息搬运。
+
 https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38
 
 ---
 
 ## 下一步
 
-- **写帖优先**：@歸藏 的「发布了: 1 Password 的 Agent 连接器全量上线了 可以直接授权...」可写性最高，建议明早扩成 X 长帖
+- **写帖优先**：@歸藏 的「发布了: 有人爆料说，Anthropic 非常重要的员工 Thariq，离职了...」可写性最高，建议明早扩成 X 长帖
+- **追踪主题**：🤖 Agent(2条) 今天重复出现，加入持续观察列表
 - **源覆盖**：今天缺少 博客、播客、推文 来源的高信号，考虑扩充对应信号源
 
 ---
@@ -43,10 +61,10 @@ https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38
 ## 平台健康摘要
 
 - X: 0 raw / 0 post-seen / 0 high-signal
-- 即刻: 10 raw / 10 post-seen / 1 high-signal
+- 即刻: 10 raw / 10 post-seen / 2 high-signal
 - Blogs: 0 raw / 0 post-seen / 0 high-signal
 - Podcasts: 0 raw / 0 post-seen / 0 high-signal
 
 ---
 
-<sub>25 builders · 0 tweets · 0 blogs · 0 podcasts · 1 high-signal · balanced mode</sub>
+<sub>25 builders · 0 tweets · 0 blogs · 0 podcasts · 2 high-signal · balanced mode</sub>

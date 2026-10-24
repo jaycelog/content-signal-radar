@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T04:58:29.883Z",
+  "generatedAt": "2026-10-24T04:43:20.905Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 1,
+    "highSignalCount": 2,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,10 +19,24 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 1
+      "jike_post": 2
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6adc301e756bbb665885ece0",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 有人爆料说，Anthropic 非常重要的员工 Thariq，离职了。 他和 Boris Cherny是一直以来代表 Anthropic 跟大家沟通的人。 发表了非常多关于 Skill、Agent...",
+      "url": "https://m.okjike.com/originalPosts/6adc301e756bbb665885ece0",
+      "summary": "有人爆料说，Anthropic 非常重要的员工 Thariq，离职了。&lt;br&gt;&lt;br&gt;他和 Boris Cherny是一直以来代表 Anthropic 跟大家沟通的人。&lt;br&gt;&lt;br&gt;发表了非常多关于 Skill、AgentSDK 和上下文工程的教程，社区影响力很大。&lt;br&gt;&lt;br&gt;这是一个非常重要的信号&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/Fu567mijVL5ppjd...",
+      "score": 89,
+      "publishedAt": "Sat, 24 Oct 2026 04:12:14 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38",
       "source": "podcast",
@@ -31,7 +45,7 @@
       "title": "发布了: 1 Password 的 Agent 连接器全量上线了 可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页 登录的时候，1 Password 会完成密码和账号的填写...",
       "url": "https://m.okjike.com/originalPosts/6adad8eacfb5d08b3ef16b38",
       "summary": "1 Password 的 Agent 连接器全量上线了&lt;br&gt;&lt;br&gt;可以直接授权像 muse 和 grokbot 这样的 Agent 登录对应的网页&lt;br&gt;&lt;br&gt;登录的时候，1 Password 会完成密码和账号的填写，所以 Agent 是不会看到密码的&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FgSKvv1RNCo9NTbuHyVRZLNOzzOvv3.png?imageMogr2/meta-...",
-      "score": 89,
+      "score": 85,
       "publishedAt": "Fri, 23 Oct 2026 03:47:54 GMT",
       "topic": "product_signal",
       "needsReview": false,
