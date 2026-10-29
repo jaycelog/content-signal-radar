@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:49:45.141Z",
+  "generatedAt": "2026-10-29T05:54:06.388Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -24,16 +24,16 @@
   },
   "signals": [
     {
-      "id": "https://m.okjike.com/originalPosts/6ae01feb0737a17b289fb680",
+      "id": "https://m.okjike.com/originalPosts/6ae2d1e9136b2761c604a8e2",
       "source": "podcast",
-      "sourceName": "歸藏",
-      "handle": "歸藏",
-      "title": "发布了: 优化了一下我的个人 Memory 和多 Agent 的协作体系 目前是 Codex、Muse 和 Grokbot 一起协作，每个有各自的职能，Claude 没敢让他加入",
-      "url": "https://m.okjike.com/originalPosts/6ae01feb0737a17b289fb680",
-      "summary": "优化了一下我的个人 Memory 和多 Agent 的协作体系&lt;br&gt;&lt;br&gt;目前是 Codex、Muse 和 Grokbot 一起协作，每个有各自的职能，Claude 没敢让他加入&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/FgU0W0erMpEjcrPcuAkK3TenzIysv3.png?imageMogr2/meta-keep-list/ZXhpZixVc2VyQ29tbWVudA==/auto-orient&quo...",
-      "score": 85,
-      "publishedAt": "Tue, 27 Oct 2026 03:52:11 GMT",
-      "topic": "product_signal",
+      "sourceName": "阑夕",
+      "handle": "阑夕",
+      "title": "发布了: 怎么区分一款AI产品是ChatBot还是Personal Agent？ 很简单，如果图标长得像屁眼，那就是ChatBot，如果长有一张脸，那就是Personal Agent。",
+      "url": "https://m.okjike.com/originalPosts/6ae2d1e9136b2761c604a8e2",
+      "summary": "怎么区分一款AI产品是ChatBot还是Personal Agent？&lt;br&gt;&lt;br&gt;很简单，如果图标长得像屁眼，那就是ChatBot，如果长有一张脸，那就是Personal Agent。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/Fg_7sX0Z1WoB1DQz3S31eKDcQj_5v3.png?imageMogr2/meta-keep-list/ZXhpZixVc2VyQ29tbWVudA==/auto-orient&...",
+      "score": 89,
+      "publishedAt": "Thu, 29 Oct 2026 04:56:09 GMT",
+      "topic": "both",
       "needsReview": false,
       "reviewNote": null
     }
