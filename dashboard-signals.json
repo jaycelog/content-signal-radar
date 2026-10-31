@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T05:55:50.269Z",
+  "generatedAt": "2026-10-31T05:51:48.754Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 1,
+    "highSignalCount": 2,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -19,10 +19,24 @@
     },
     "demotedCounts": {},
     "highSignalCounts": {
-      "jike_post": 1
+      "jike_post": 2
     }
   },
   "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6ae4764935f364e34b397a68",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 夸克网盘有 Skill了，这个牛逼啊！ 这下所有的 AI 直接能读你夸克网盘里所有的内容了： 你的图片、你的视频，还有你以前的一些信息。 而且会员的话还支...",
+      "url": "https://m.okjike.com/originalPosts/6ae4764935f364e34b397a68",
+      "summary": "夸克网盘有 Skill了，这个牛逼啊！&lt;br&gt;&lt;br&gt;这下所有的 AI 直接能读你夸克网盘里所有的内容了：&lt;br&gt;&lt;br&gt;你的图片、你的视频，还有你以前的一些信息。&lt;br&gt;&lt;br&gt;而且会员的话还支持智能搜索和相册整理。&lt;br&gt;&lt;br&gt;你对话生成的文件还可以让它直接上传网盘，它也能帮你自动去备份一些重要的资料什么的，就是 Agent 都可以做了。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cd...",
+      "score": 87,
+      "publishedAt": "Fri, 30 Oct 2026 10:49:45 GMT",
+      "topic": "product_signal",
+      "needsReview": false,
+      "reviewNote": null
+    },
     {
       "id": "https://m.okjike.com/originalPosts/6ae2d1e9136b2761c604a8e2",
       "source": "podcast",
@@ -31,7 +45,7 @@
       "title": "发布了: 怎么区分一款AI产品是ChatBot还是Personal Agent？ 很简单，如果图标长得像屁眼，那就是ChatBot，如果长有一张脸，那就是Personal Agent。",
       "url": "https://m.okjike.com/originalPosts/6ae2d1e9136b2761c604a8e2",
       "summary": "怎么区分一款AI产品是ChatBot还是Personal Agent？&lt;br&gt;&lt;br&gt;很简单，如果图标长得像屁眼，那就是ChatBot，如果长有一张脸，那就是Personal Agent。&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://cdnv2.ruguoapp.com/Fg_7sX0Z1WoB1DQz3S31eKDcQj_5v3.png?imageMogr2/meta-keep-list/ZXhpZixVc2VyQ29tbWVudA==/auto-orient&...",
-      "score": 85,
+      "score": 84,
       "publishedAt": "Thu, 29 Oct 2026 04:56:09 GMT",
       "topic": "both",
       "needsReview": false,
