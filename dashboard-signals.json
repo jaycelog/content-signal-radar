@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:25:27.368Z",
+  "generatedAt": "2026-11-11T06:35:10.403Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
@@ -31,7 +31,7 @@
       "title": "发布了: 最近从 ChatGPT 完全切换到了 Grok Bot，两者的体验差异很微妙，我尝试从「产品原子」的视角来分析下。 先给「产品原子」做个定义：产品原子是用户在这...",
       "url": "https://m.okjike.com/originalPosts/6af2a05d38389f5993a933e1",
       "summary": "最近从 ChatGPT 完全切换到了 Grok Bot，两者的体验差异很微妙，我尝试从「产品原子」的视角来分析下。&lt;br&gt;&lt;br&gt;先给「产品原子」做个定义：产品原子是用户在这个产品里创建、命名、分享、归档、删除的最小单位。&lt;br&gt;&lt;br&gt;用这个视角看 Agent，大致可以分成三类：&lt;br&gt;&lt;br&gt;1. 以对话为原子（session）：主界面像一条按时间倒排的聊天流水，新对话不断把旧的往下推，几周前聊过的事要靠搜索才找得回来。&lt;br&gt;   &lt;br&gt;2. 以项目...",
-      "score": 89,
+      "score": 85,
       "publishedAt": "Tue, 10 Nov 2026 04:41:01 GMT",
       "topic": "product_signal",
       "needsReview": false,
