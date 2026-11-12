@@ -1,6 +1,6 @@
 # 📡 Content Signal Radar
 
-> 2026/11/11 14:35:10 · 1 条高信号 · 0 条原始推文
+> 2026/11/12 15:19:13 · 1 条高信号 · 0 条原始推文
 
 ## 今日判断
 
@@ -49,4 +49,4 @@ https://m.okjike.com/originalPosts/6af2a05d38389f5993a933e1
 
 ---
 
-<sub>25 builders · 0 tweets · 0 blogs · 0 podcasts · 1 high-signal · balanced mode</sub>
+<sub>25 builders · 0 tweets · 0 blogs · 0 podcasts · 1 high-signal · 1 filtered · balanced mode</sub>
