@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T06:42:25.788Z",
+  "generatedAt": "2026-11-16T06:39:54.443Z",
   "stats": {
     "podcastEpisodes": 0,
     "xBuilders": 25,
     "totalTweets": 0,
     "blogPosts": 0,
-    "highSignalCount": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
@@ -18,7 +18,24 @@
       "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6afa78d838389f5993800e0d",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: 在听第十期 Next Token 我靠，我发现我们关于 Personal Agent 这部分讲得太好了！ 图片里我总结了我们觉得 Personal Agent 产品五条原则： 推荐如果有时...",
+      "url": "https://m.okjike.com/originalPosts/6afa78d838389f5993800e0d",
+      "summary": "在听第十期 Next Token&lt;br&gt;&lt;br&gt;我靠，我发现我们关于 Personal Agent 这部分讲得太好了！&lt;br&gt;&lt;br&gt;图片里我总结了我们觉得 Personal Agent 产品五条原则：&lt;br&gt;&lt;br&gt;推荐如果有时间，比如上班、摸鱼或者是开车的时候，可以听一听：xiaoyuzhoufm.com/episode/6af9e512fe62f8f52c4ba6fb&lt;br&gt;&lt;br&gt;也欢迎通过新上线的 Next Token Skill 去发布我们播客的...",
+      "score": 89,
+      "publishedAt": "Mon, 16 Nov 2026 03:30:32 GMT",
+      "topic": "both",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
