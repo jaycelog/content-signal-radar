@@ -1,24 +1,41 @@
 {
-  "generatedAt": "2026-11-24T09:59:54.110Z",
+  "generatedAt": "2026-11-25T08:43:49.700Z",
   "stats": {
     "podcastEpisodes": 0,
-    "xBuilders": 0,
+    "xBuilders": 25,
     "totalTweets": 0,
-    "blogPosts": 3,
-    "highSignalCount": 0,
+    "blogPosts": 0,
+    "highSignalCount": 1,
     "autoResolvedCount": 0,
     "feedGeneratedAt": "2026-06-17T10:51:52.774Z",
     "rawCounts": {
-      "blog_post": 2
+      "jike_post": 10
     },
     "postSeenCounts": {
-      "blog_post": 2
+      "jike_post": 10
     },
     "seenFilteredCounts": {
-      "blog_post": 0
+      "jike_post": 0
     },
     "demotedCounts": {},
-    "highSignalCounts": {}
+    "highSignalCounts": {
+      "jike_post": 1
+    }
   },
-  "signals": []
+  "signals": [
+    {
+      "id": "https://m.okjike.com/originalPosts/6b06495838389f5993c34ad4",
+      "source": "podcast",
+      "sourceName": "歸藏",
+      "handle": "歸藏",
+      "title": "发布了: Antigravity 团队最近也是猛猛干活，疯狂发更新，摆了一年到还债的时候了。 他们新增了几个修复，还不错： 最傻逼的自动模式修复了，以前那个自动模式不...",
+      "url": "https://m.okjike.com/originalPosts/6b06495838389f5993c34ad4",
+      "summary": "Antigravity 团队最近也是猛猛干活，疯狂发更新，摆了一年到还债的时候了。&lt;br&gt;&lt;br&gt;他们新增了几个修复，还不错：&lt;br&gt;&lt;br&gt;最傻逼的自动模式修复了，以前那个自动模式不知道自动在哪儿，每一次动作都需要人工审批；现在读取普通不敏感的文件，不弹窗要权限了。&lt;br&gt;&lt;br&gt;因为有 subagent，所以排队消息有时候发不出去。现在会告诉你哪个 subagent 在影响排队消息的发送。&lt;br&gt;&lt;br&gt;对话历史没有上限了，原来限制 500 条，你只能看...",
+      "score": 88,
+      "publishedAt": "Wed, 25 Nov 2026 02:35:04 GMT",
+      "topic": "x_angle",
+      "needsReview": false,
+      "reviewNote": null
+    }
+  ]
 }
